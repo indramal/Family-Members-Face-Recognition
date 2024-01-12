@@ -1,0 +1,8 @@
+fastapi[all]
+uvicorn
+mangum
+pandas
+numpy
+boto3
+urllib3
+Pillow
